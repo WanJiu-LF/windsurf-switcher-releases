@@ -80,6 +80,4 @@ Windows 10/11 64-bit：[最新版下载](https://github.com/WanJiu-LF/ai-ide-swi
 本工具仅供个人多账号 Windsurf / Trae / Kiro / Cursor 使用场景，与 Windsurf / Codeium / Trae / ByteDance / Kiro / Amazon / Cursor 官方均无关联。
 使用本工具产生的任何后果由使用者自行承担。
 
----
 
-**作者**：晚九 (WanJiu)
